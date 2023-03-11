@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="USD" type="string">A</item>
+    <item name="Euro" type="string">B</item>
+    <item name="MAD" type="string">C</item>
+    <item name="TEST" type="string">D</item>
+</resources>
